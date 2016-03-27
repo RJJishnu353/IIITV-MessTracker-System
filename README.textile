@@ -1,0 +1,7 @@
+Make a go to login page when user tries to write marker.php when not logged in to the system. 
+
+Make a view for regitering page.
+
+Link data with the database.
+
+Make my own signature icon font appear at the bottom of each page.
